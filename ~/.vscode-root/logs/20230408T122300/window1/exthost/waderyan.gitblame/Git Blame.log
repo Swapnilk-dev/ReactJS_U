@@ -1,0 +1,85 @@
+2023-04-08 12:23:32.094 [info] git rev-parse --git-dir
+2023-04-08 12:23:32.105 [info] git rev-parse --git-dir
+2023-04-08 12:23:32.118 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/index.js
+2023-04-08 12:23:32.124 [info] Blamed "/home/swap/Desktop/my-app/src/index.js"
+2023-04-08 12:24:52.793 [info] git rev-parse --git-dir
+2023-04-08 12:24:52.808 [info] git rev-parse --git-dir
+2023-04-08 12:24:52.838 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 12:24:52.855 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 12:25:14.377 [info] git rev-parse --git-dir
+2023-04-08 12:25:14.394 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 12:25:14.406 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 12:25:14.579 [info] git rev-parse --git-dir
+2023-04-08 12:25:14.600 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 12:25:14.606 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 12:25:14.764 [info] git rev-parse --git-dir
+2023-04-08 12:25:14.792 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 12:25:14.802 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 12:25:14.959 [info] git rev-parse --git-dir
+2023-04-08 12:25:14.986 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 12:25:14.991 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:14:58.789 [info] git rev-parse --git-dir
+2023-04-08 13:14:58.802 [info] git rev-parse --git-dir
+2023-04-08 13:14:58.813 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/expenseItem
+2023-04-08 13:14:58.817 [info] Blamed "/home/swap/Desktop/my-app/src/components/expenseItem"
+2023-04-08 13:15:05.780 [info] git rev-parse --git-dir
+2023-04-08 13:15:05.795 [info] git rev-parse --git-dir
+2023-04-08 13:15:05.821 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/expenseItem.js
+2023-04-08 13:15:05.827 [info] Blamed "/home/swap/Desktop/my-app/src/components/expenseItem.js"
+2023-04-08 13:15:31.310 [info] git rev-parse --git-dir
+2023-04-08 13:15:31.323 [info] git rev-parse --git-dir
+2023-04-08 13:15:31.340 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:15:31.346 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:17:24.926 [info] git rev-parse --git-dir
+2023-04-08 13:17:24.942 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:17:24.944 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:17:25.897 [info] git rev-parse --git-dir
+2023-04-08 13:17:25.914 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:17:25.917 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:17:26.111 [info] git rev-parse --git-dir
+2023-04-08 13:17:26.123 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:17:26.124 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:17:26.297 [info] git rev-parse --git-dir
+2023-04-08 13:17:26.313 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:17:26.314 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:17:26.438 [info] git rev-parse --git-dir
+2023-04-08 13:17:26.449 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:17:26.451 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:18:20.712 [info] git rev-parse --git-dir
+2023-04-08 13:18:20.729 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/components/ExpenseItem.js
+2023-04-08 13:18:20.731 [info] Blamed "/home/swap/Desktop/my-app/src/components/ExpenseItem.js"
+2023-04-08 13:19:14.253 [info] git rev-parse --git-dir
+2023-04-08 13:19:14.279 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:14.288 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:33.103 [info] git rev-parse --git-dir
+2023-04-08 13:19:33.124 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:33.135 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:33.345 [info] git rev-parse --git-dir
+2023-04-08 13:19:33.366 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:33.378 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:33.568 [info] git rev-parse --git-dir
+2023-04-08 13:19:33.584 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:33.588 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:33.746 [info] git rev-parse --git-dir
+2023-04-08 13:19:33.804 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:33.920 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:40.761 [info] git rev-parse --git-dir
+2023-04-08 13:19:40.799 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:40.820 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:40.917 [info] git rev-parse --git-dir
+2023-04-08 13:19:40.947 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:40.955 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:41.267 [info] git rev-parse --git-dir
+2023-04-08 13:19:41.309 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:41.314 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:43.770 [info] git rev-parse --git-dir
+2023-04-08 13:19:43.939 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:44.022 [info] git rev-parse --git-dir
+2023-04-08 13:19:44.075 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:44.084 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:44.179 [info] git rev-parse --git-dir
+2023-04-08 13:19:44.200 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:44.298 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
+2023-04-08 13:19:44.354 [info] git rev-parse --git-dir
+2023-04-08 13:19:44.387 [info] git blame -C --incremental -- /home/swap/Desktop/my-app/src/App.js
+2023-04-08 13:19:44.400 [info] Blamed "/home/swap/Desktop/my-app/src/App.js"
