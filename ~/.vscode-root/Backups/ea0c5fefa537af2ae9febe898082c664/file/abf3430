@@ -1,0 +1,9 @@
+file:///home/swap/Desktop/my-app/src/components/ExpenseItem.js {"mtime":1680940100685,"ctime":1680939898671,"size":103,"etag":"3acrel4cm3a","orphaned":false,"typeId":""}
+function ExpenseItem(){
+    return(
+        <input type="button" className="submit"></input>
+        <h2>Expense item!</h2>
+    )
+}
+
+export default ExpenseItem;
