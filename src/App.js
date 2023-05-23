@@ -14,6 +14,7 @@ function App() {
       <ExpenseItem title={expenses[2].title} amount={expenses[2].amount} date={expenses[2].date}></ExpenseItem>
     </div>
   );
+  //asdasdasd
 }
 
 export default App;
